@@ -69,8 +69,11 @@ The visual map function refers to displaying geographical information on the map
 
 General description about the project：
 Our project "Understanding Finnish Cities" is an Android application that can provide users with some information about Finnish cities, including real-time weather and temperature, geographical coordinates, and basic city information. This application uses multiple APIs and can display the specific conditions of the city through a map.
+
 Documentation contains working installation/running instructions (application starts correctly with instructions)
+
 The program is installed via apk package.
+
 After starting the program, you will enter the main interface (search interface), and search by entering the city name in the input box of this interface and confirming.
 After confirming the search, you will enter the information page, which displays various information about the searched city (current weather, statistical information).
 There is also a "Show Map" button on the information page. After clicking, the map information of the searched city will be displayed. The map defaults to showing all of Finland, with pushpins marking the locations of the cities being searched for. The map can be zoomed in to see map details of the city.
