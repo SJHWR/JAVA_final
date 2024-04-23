@@ -52,6 +52,7 @@ Customized Fuctions（Feature X）：
 We would like to request the following four additional features.
 
 1) Fuzzy query function (2 points)
+   
 The fuzzy query function is a feature that allows the user to search for desired results with incomplete or slightly incorrect input. For example, if someone wants to know about the city "Lahti", but due to a typing error he writes "Laht", the fuzzy query will know that you are looking for the city "Lahti" and provide you with the correct search results. And provide you with the correct city information.As shown in the image below.
 ![image](https://github.com/SJHWR/JAVA_final/assets/161080112/46a800bf-9ed3-4247-aa60-20383e299fd9)
 ![image](https://github.com/SJHWR/JAVA_final/assets/161080112/9c8b2cd1-daef-44d5-91ad-37c1f401fb7e)
@@ -59,21 +60,25 @@ The fuzzy query function is a feature that allows the user to search for desired
 
 
 2) Real-time weather function (2 points)
-Real-time weather feature means that the application can display real-time weather conditions, temperature, etc. for the relevant city. For example, the real-time weather function allows the user to find out the weather conditions and temperature of Lahti, where he/she wants to go, so that he/she can prepare the right clothes for his/her trip.
+   
+Real-time weather feature means that the application can display real-time weather conditions, temperature, etc. for the relevant city. For example, the real-time weather function allows the user to find out the weather conditions and temperature of Lahti, where he/she wants to go, so that he/she can prepare the right clothes for his/her trip.As shown in the image below.
 ![image](https://github.com/SJHWR/JAVA_final/assets/161080112/941f25a8-efa8-47d9-9f0b-406325af0d3f)
 
 
 3 ）Function to find latitude and longitude (2 points)
-The function to find latitude and longitude is to display the longitude and latitude of the searched city in the application to know the geographic location of the city.
+
+The function to find latitude and longitude is to display the longitude and latitude of the searched city in the application to know the geographic location of the city.As shown in the image below.
 ![image](https://github.com/SJHWR/JAVA_final/assets/161080112/34c7466f-7088-481a-b439-1b42e571af5f)
 
 
 4) Visualization map function (3 points)
-The visual map function refers to displaying geographical information on the map in the form of graphics through code. Through the visual map function, users can intuitively view the distribution of geographical information on the map.
+   
+The visual map function refers to displaying geographical information on the map in the form of graphics through code. Through the visual map function, users can intuitively view the distribution of geographical information on the map.As shown in the image below.
 ![image](https://github.com/SJHWR/JAVA_final/assets/161080112/5861c901-acf3-4105-88c3-65303273daa0)
 ![image](https://github.com/SJHWR/JAVA_final/assets/161080112/8f59d436-21cb-4fd5-a8a4-0786773058ac)
 
 General description about the project：
+
 Our project "Understanding Finnish Cities" is an Android application that can provide users with some information about Finnish cities, including real-time weather and temperature, geographical coordinates, and basic city information. This application uses multiple APIs and can display the specific conditions of the city through a map.
 
 Documentation contains working installation/running instructions (application starts correctly with instructions)
