@@ -2,6 +2,9 @@
 Documentation contains class diagram：
 ![image](https://github.com/SJHWR/JAVA_final/assets/161080112/b819d957-c47f-489d-ba7e-fd27a56b3f90)
 
+
+
+
 Division of labor among project members：
 
 Jingwen Liu: 
@@ -10,9 +13,15 @@ UI design, overall program construction, and all implementations except Basic fu
 Gaoshuo Cui:
 Writing implementation plans, drawing UML diagrams, implementing Basic functions, writing final reports and recording demonstration videos.
 
+
+
+
 Documentation contains list of features and their scores：
 
 Score for all features: 36 points
+
+
+
 
 Basic function (10 points):
 
@@ -24,6 +33,9 @@ Users can use this application to check current weather conditions, temperature,
 
 3) The app can display population and demographic changes, workplace self-sufficiency, and employment rates, etc.
 ![image](https://github.com/SJHWR/JAVA_final/assets/161080112/3feafea1-3451-4f64-8047-5f76150678a4)
+
+
+
 
 Other functions:
 
@@ -46,6 +58,9 @@ https://developers.google.com/maps
 3) Data Visualization (5 points)
 
 4) Using Fragments (use on map page, 4 points)
+
+
+
 
 Customized Fuctions（Feature X）：
 
@@ -77,9 +92,15 @@ The visual map function refers to displaying geographical information on the map
 ![image](https://github.com/SJHWR/JAVA_final/assets/161080112/5861c901-acf3-4105-88c3-65303273daa0)
 ![image](https://github.com/SJHWR/JAVA_final/assets/161080112/8f59d436-21cb-4fd5-a8a4-0786773058ac)
 
+
+
+
 General description about the project：
 
 Our project "Understanding Finnish Cities" is an Android application that can provide users with some information about Finnish cities, including real-time weather and temperature, geographical coordinates, and basic city information. This application uses multiple APIs and can display the specific conditions of the city through a map.
+
+
+
 
 Documentation contains working installation/running instructions (application starts correctly with instructions)
 
