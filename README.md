@@ -3,6 +3,7 @@ Documentation contains class diagram：
 ![image](https://github.com/SJHWR/JAVA_final/assets/161080112/b819d957-c47f-489d-ba7e-fd27a56b3f90)
 
 Division of labor among project members：
+
 Jingwen Liu: 
 UI design, overall program construction, and all implementations except Basic functions.
 
@@ -29,12 +30,17 @@ Other functions:
 1) Display images (2 points)
 
 2) Use 3 APIs (total of 6 points):
+   
 ⚫ QWeather GeoAPI （Fuzzy query, query city latitude and longitude）
+
 https://dev.qweather.com/en/docs/api/geoapi/
-⚫ QWeather Weather API (Query real-time temperature and weather 
-information of the city)
+
+⚫ QWeather Weather API (Query real-time temperature and weather information of the city)
+
 https://dev.qweather.com/en/docs/api/weather/
+
 ⚫ Google Map API （Used to display geographic location）
+
 https://developers.google.com/maps
 
 3) Data Visualization (5 points)
