@@ -75,5 +75,7 @@ Documentation contains working installation/running instructions (application st
 The program is installed via apk package.
 
 After starting the program, you will enter the main interface (search interface), and search by entering the city name in the input box of this interface and confirming.
+
 After confirming the search, you will enter the information page, which displays various information about the searched city (current weather, statistical information).
+
 There is also a "Show Map" button on the information page. After clicking, the map information of the searched city will be displayed. The map defaults to showing all of Finland, with pushpins marking the locations of the cities being searched for. The map can be zoomed in to see map details of the city.
